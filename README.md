@@ -29,5 +29,5 @@ It uses Least Significant Bit(LSB) algorithm for Image Steganography.
   ```
   $ ./lsb_steg -d output.bmp output.txt
   ```
-  A new file with name output.txt will be created containing the hidden message.
+  A new file with name output_image.txt will be created containing the hidden message.
 
